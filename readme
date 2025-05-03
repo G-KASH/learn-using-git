@@ -1,0 +1,18 @@
+
+learn_git
+This repository was created to practice basic Git commands.
+
+The following actions were performed:
+
+Created a folder.
+Navigated into the folder.
+Created third.txt.
+Initialized a Git repository.
+Added and committed third.txt.
+Created fourth.txt.
+Added and committed fourth.txt.
+Removed third.txt.
+Added and committed the removal.
+Checked the commit history.
+Configured the global pager.
+Listed global Git configurations.
